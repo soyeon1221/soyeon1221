@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![github_readme](https://github.com/user-attachments/assets/caadfc20-5265-44d9-bc4b-e9c68fb0f8c8){: width="100px" height="100px"}
+![title](https://github.com/user-attachments/assets/6a1a5ac7-d1c6-4362-b64f-9a6d51d42bf3)
